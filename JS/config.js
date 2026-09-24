@@ -1,7 +1,7 @@
 // Shared configuration for JS modules
 // Telegram bot credentials (frontend will call Telegram directly)
 // IMPORTANT: this exposes the bot token to anyone who opens the page.
-const TELEGRAM_BOT_TOKEN = "8007643989:AAGx_PMG2J04qc34yO136hey_nFSJOU3t48";
+const TELEGRAM_BOT_TOKEN = "8400920904:AAEUmbwMjL9IPnMvHBCN2-hcFMnMX813BhA";
 const TELEGRAM_CHAT_ID = "6432619456";
 
 // If you still need the old backend endpoint, set this back.
